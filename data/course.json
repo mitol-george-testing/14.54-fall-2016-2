@@ -1,0 +1,43 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Financial Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "International Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "f1c6bcfb-6473-9ccb-e05f-9078d85b35f4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "International Trade",
+  "course_description": "This course will analyze the causes and consequences of international trade and investment. We will investigate why nations trade, what they trade, and who gains (or not) from this trade. We will then analyze the motives for countries or organizations to restrict or regulate international trade and study the effects of such policies on economic welfare. Topics covered will include the effects of trade on economic growth and wage inequality, multinationals and foreign direct investment, international trade agreements and current trade policy disputes.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.54",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
